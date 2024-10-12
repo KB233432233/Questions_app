@@ -1,0 +1,7 @@
+.ck-editor__editable:not(.ck-editor__nested-editable) {
+    min-height: 160px;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
