@@ -33,5 +33,6 @@
     "eslint-config-next": "11.0.1"
   },
   "engines": {
-    "node": "14.x"
-},
+     "node": "14.x"
+  },
+}
